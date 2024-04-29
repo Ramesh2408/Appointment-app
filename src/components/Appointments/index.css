@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 80vh;
+  width: 100vh;
+  border-radius: 20px;
+  padding: 60px;
+}
+.search {
+  height: 40px;
+  width: 200px;
+}
+.image-container {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-items: flex-end;
+}
